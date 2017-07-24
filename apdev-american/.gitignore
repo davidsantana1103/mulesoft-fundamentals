@@ -4,10 +4,9 @@
 *.class
 
 # Package Files #
-*.jar
 *.war
 *.ear
-
+src/main/app/lib/
 # ------------------------------------------------------------------------------------------- #
 # Eclipse-specific (https://github.com/github/gitignore/blob/master/Global/Eclipse.gitignore) #
 # ------------------------------------------------------------------------------------------- #
